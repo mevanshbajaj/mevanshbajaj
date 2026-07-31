@@ -75,9 +75,9 @@ Healthcare appointment platform with doctor/patient dashboards, JWT-based role a
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&count_private=true" alt="Vansh's GitHub streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&count_private=true" alt="Vansh's GitHub streak" height="165"/>
 </p>
 
 
