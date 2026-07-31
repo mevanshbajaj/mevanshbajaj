@@ -76,11 +76,8 @@ Healthcare appointment platform with doctor/patient dashboards, JWT-based role a
 # 📊 GitHub Stats
 
 <p>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true" />
-
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true&count_private=true&r=1" />
 </p>
 
 ---
