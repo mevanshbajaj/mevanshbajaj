@@ -73,12 +73,23 @@ Healthcare appointment platform with doctor/patient dashboards, JWT-based role a
 - Introduction to Python
 
 ---
+# 📊 GitHub Stats
 
-### 📊 GitHub Stats
+<p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&count_private=true" alt="Vansh's GitHub streak" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true" />
+
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Vansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mevanshbajaj&theme=tokyo-night)](https://github.com/mevanshbajaj)
+
+---
 
 
 ### 🌐 Connect with Me
