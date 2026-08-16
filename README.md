@@ -71,6 +71,7 @@ Healthcare appointment platform with doctor/patient dashboards, JWT-based role a
 - Foundations of Cybersecurity
 - Introductory C Programming
 - Introduction to Python
+- Gen AI with LLM
 
 ---
 # 📊 GitHub Stats
