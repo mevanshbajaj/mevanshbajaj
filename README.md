@@ -86,18 +86,14 @@ More detail on each project is on my [portfolio](https://www.vanshbajaj.me/).
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mevanshbajaj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Stats
 
 <p align="center">
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true" />
 </p>
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=mevanshbajaj&theme=tokyo-night&hide_border=true)](https://github.com/mevanshbajaj)
-
----
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=mevanshbajaj&style=flat-square&color=3ddc97" />
+</p>
 
 <p align="center"><i>Building backend systems, one API at a time. 🚀</i></p>
