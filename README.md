@@ -85,7 +85,7 @@ More detail on each project is on my [portfolio](https://www.vanshbajaj.me/).
 
 ---
 
-### 📊 GitHub Stats
+
 ### 📊 GitHub Stats
 
 <p align="center">
