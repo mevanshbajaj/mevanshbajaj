@@ -9,6 +9,7 @@
 
 ### 🚀 About Me
 
+
 - 🎓 Pursuing B.E. in Computer Science at **Chitkara University** (2023 – 2027)
 - 💻 Experienced in **Java, Spring Boot, Node.js, PostgreSQL, and MongoDB**
 - 🏗️ Passionate about designing scalable backend architectures with clean, layered design (Controller–Service–Repository)
