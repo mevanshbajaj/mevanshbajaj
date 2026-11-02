@@ -1,60 +1,66 @@
 <h1 align="center">Hi 👋, I'm Vansh Bajaj</h1>
-<h3 align="center">Backend Engineer | Java & Spring Boot Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">Backend Engineer · Java &amp; Spring Boot Developer · Full-Stack</h3>
 
 <p align="center">
-  Final-year Computer Science student passionate about building scalable backend systems and clean, maintainable APIs.
+  Final-year Computer Science student building scalable backend systems and clean, maintainable APIs.
 </p>
+
+<p align="center">
+  <a href="https://www.vanshbajaj.me/"><img src="https://img.shields.io/badge/Portfolio-vanshbajaj.me-3ddc97?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.vanshbajaj.me/Vansh-Bajaj-Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0d0f12?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/></a>
+  <a href="https://linkedin.com/in/vanshbajajj/"><img src="https://img.shields.io/badge/LinkedIn-vanshbajajj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/VanshBajaj94/"><img src="https://img.shields.io/badge/LeetCode-400%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+</p>
+
+> **Currently looking for a Backend Engineer internship.** Open to talking about Java, Spring Boot, REST APIs and system design.
 
 ---
 
 ### 🚀 About Me
 
-
-- 🎓 Pursuing B.E. in Computer Science at **Chitkara University** (2023 – 2027)
-- 💻 Experienced in **Java, Spring Boot, Node.js, PostgreSQL, and MongoDB**
-- 🏗️ Passionate about designing scalable backend architectures with clean, layered design (Controller–Service–Repository)
-- 🌱 Currently deepening my knowledge of **System Design** and **Cloud (AWS)**
-- 🤝 Looking to collaborate on backend/full-stack projects and open-source contributions
-- 💬 Ask me about Java, Spring Boot, REST APIs, or full-stack development
-- 📫 Reach me at **mevanshbajaj@gmail.com**
+- 🎓 B.E. in Computer Science at **Chitkara University** (2023 – 2027)
+- 💻 Work with **Java, Spring Boot, Node.js, PostgreSQL and MongoDB**
+- 🏗️ I like layered designs (Controller → Service → Repository) that stay easy to read and test
+- 🌱 Learning **system design** and **AWS**
+- 🧩 400+ problems solved on LeetCode (arrays, strings, trees, graphs, DP)
+- 🤝 Open to backend/full-stack collaboration and open-source contributions
+- 📫 **mevanshbajaj@gmail.com**
 
 ---
 
 ### 🛠️ Featured Projects
 
-**[CarCare – Vehicle Maintenance System](https://github.com/mevanshbajaj/CarCare)**
-Backend-driven vehicle maintenance management system built with Java & Spring Boot, featuring CRUD operations, RESTful APIs, and PostgreSQL integration.
+| Project | What it is | Stack |
+|---|---|---|
+| **[CarCare](https://github.com/mevanshbajaj/CarCare)** | Vehicle maintenance system with vehicle records, service history and a layered REST API, tested with Postman | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **[MediConnect](https://github.com/mevanshbajaj/mediconnect)** | Healthcare appointment platform with doctor and patient dashboards, JWT role-based access and double-booking prevention | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **[StudySmartAI](https://github.com/mevanshbajaj/StudySmart-AI)** | AI learning platform that turns uploaded PDFs and DOCX files into study material and interview practice using the Gemini API | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **[EcoStore](https://github.com/mevanshbajaj/EcoStore)** | Full-stack e-commerce app with JWT authentication and Razorpay payments | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 
-**[EcoStore – Full-Stack E-Commerce Platform](https://github.com/mevanshbajaj/EcoStore)**
-Full-stack e-commerce app using React.js, Node.js, Express.js & MongoDB, with JWT authentication and Razorpay payment integration.
-
-**[MediConnect – Healthcare Appointment System](https://github.com/mevanshbajaj/MediConnect)**
-Healthcare appointment platform with doctor/patient dashboards, JWT-based role authorization, and conflict-free appointment scheduling.
-
-> 🔗 Replace the `#` links above with your actual GitHub repo URLs.
+More detail on each project is on my [portfolio](https://www.vanshbajaj.me/).
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**
+**Languages**&nbsp;
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Frameworks & Technologies**
+**Frameworks**&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-**Databases**
+**Databases**&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Tools & Cloud**
+**Tools &amp; Cloud**&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -68,38 +74,30 @@ Healthcare appointment platform with doctor/patient dashboards, JWT-based role a
 ### 📜 Certifications
 
 - Meta Full Stack Developer Specialization
-- Effective Communication Specialization
+- Certified DevOps Associate
 - Foundations of Cybersecurity
-- Introductory C Programming
+- Effective Communication Specialization
 - Introduction to Python
+- Introductory C Programming
 - Gen AI with LLM
 
----
-# 📊 GitHub Stats
+[View certificates →](https://github.com/mevanshbajaj/Certificates)
 
-<p>
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true&count_private=true&r=1" />
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mevanshbajaj&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mevanshbajaj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-# 📈 Contribution Graph
-
-[![Vansh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mevanshbajaj&theme=tokyo-night)](https://github.com/mevanshbajaj)
-
----
-
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mevanshbajaj@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+<p align="center">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=mevanshbajaj&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"><i>Building backend systems one API at a time. 🚀</i></p>
+[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=mevanshbajaj&theme=tokyo-night&hide_border=true)](https://github.com/mevanshbajaj)
+
+---
+
+<p align="center"><i>Building backend systems, one API at a time. 🚀</i></p>
